@@ -329,5 +329,9 @@ img
     {
         background:#6c5fa5 ;
     }
+    .team.section-padding img
+    {
+        width: 200px;
+    }
     
 }

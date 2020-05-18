@@ -340,5 +340,13 @@ img
     {
         background: #1f92be;
     }
+    .post img{
+        width: 200px;
+    }
+    .youtubepost
+    {
+        width: 300px;
+    
+    }
     
 }
